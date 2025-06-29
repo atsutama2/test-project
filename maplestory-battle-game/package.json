@@ -1,0 +1,20 @@
+{
+  "name": "maplestory-battle-game",
+  "version": "1.0.0",
+  "description": "メイプルストーリー風の戦闘画面テスト",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.70.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "keywords": ["game", "phaser", "maplestory", "battle"],
+  "author": "Test User",
+  "license": "MIT"
+} 
